@@ -1,4 +1,4 @@
-# #!/usr/bin/python2
+# #!/usr/bin/env python
 """ Movie recommender
     Based on Andrew Ng's Machine Learning (Coursera) course
 """
